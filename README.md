@@ -66,10 +66,6 @@ Object.keys(Locales).forEach(function (lang) {
 
 ...
 ```
-
-
-
-
 ## Using vuex-i18n
 
 ### vuex-i18n
@@ -118,7 +114,6 @@ var app = new Vue({
 ```
 
 ## Output Formats
-
 You can specify the output formats from `es6`, `umd`, or `json` with the `--format` option. (defaults to `es6`)
 
 ```
